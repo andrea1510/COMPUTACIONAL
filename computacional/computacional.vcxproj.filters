@@ -27,7 +27,37 @@
     <ClCompile Include="IngresoDatos.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="MatrizAleatoria.cpp">
+    <ClCompile Include="Matriz6x6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Matriz7x7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Matriz8x8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Matriz9x9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Matriz10x10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Matriz11x11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Matriz12x12.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Matriz13x13.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Matriz14x14.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Matriz15x15.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Matriz5x5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -44,7 +74,43 @@
     <ClInclude Include="IngresoDatos.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="MatrizAleatoria.h">
+    <ClInclude Include="Dijkstra.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MatricesAdyacencia.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Matriz6x6.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Matriz7x7.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Matriz8x8.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Matriz9x9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Matriz10x10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Matriz11x11.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Matriz12x12.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Matriz13x13.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Matriz14x14.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Matriz15x15.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Matriz5x5.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

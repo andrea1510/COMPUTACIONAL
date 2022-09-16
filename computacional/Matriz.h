@@ -1,5 +1,15 @@
 #pragma once
-#include "MatrizAleatoria.h"
+#include "Matriz5x5.h"
+#include "Matriz6x6.h"
+#include "Matriz7x7.h"
+#include "Matriz8x8.h"
+#include "Matriz9x9.h"
+#include "Matriz10x10.h"
+#include "Matriz11x11.h"
+#include "Matriz12x12.h"
+#include "Matriz13x13.h"
+#include "Matriz14x14.h"
+#include "Matriz15x15.h"
 
 namespace computacional {
 
@@ -117,9 +127,87 @@ namespace computacional {
 	private: System::Void comboBox1_SelectedIndexChanged(System::Object^ sender, System::EventArgs^ e) {
 	}
 	private: System::Void autogenerado_Click(System::Object^ sender, System::EventArgs^ e) {
-		computacional::MatrizAleatoria^ abrir_aleatoria = gcnew computacional::MatrizAleatoria();
-		this->Visible = false;
-		abrir_aleatoria->ShowDialog();
+		int dimension;
+		switch (comboBox1->SelectedIndex) {
+		case 0: {
+			dimension = 5;
+			computacional::Matriz5x5^ abrir_5x5 = gcnew computacional::Matriz5x5();
+			this->Visible = false;
+			abrir_5x5->ShowDialog();
+		}
+			  break;
+		case 1: {
+			dimension = 6;
+			computacional::Matriz6x6^ abrir_6x6 = gcnew computacional::Matriz6x6();
+			this->Visible = false;
+			abrir_6x6->ShowDialog();
+		}
+			  break;
+		case 2: {
+			dimension = 7;
+			computacional::Matriz7x7^ abrir_7x7 = gcnew computacional::Matriz7x7();
+			this->Visible = false;
+			abrir_7x7->ShowDialog();
+		}
+			  break;
+		case 3: {
+			dimension = 8;
+			computacional::Matriz8x8^ abrir_8x8 = gcnew computacional::Matriz8x8();
+			this->Visible = false;
+			abrir_8x8->ShowDialog();
+		}
+			  break;
+		case 4: {
+			dimension = 9;
+			computacional::Matriz9x9^ abrir_9x9 = gcnew computacional::Matriz9x9();
+			this->Visible = false;
+			abrir_9x9->ShowDialog();
+		}
+			  break;
+		case 5: {
+			dimension = 10;
+			computacional::Matriz10x10^ abrir_10x10 = gcnew computacional::Matriz10x10();
+			this->Visible = false;
+			abrir_10x10->ShowDialog();
+		}
+			  break;
+		case 6: {
+			dimension = 11;
+			computacional::Matriz11x11^ abrir_11x11 = gcnew computacional::Matriz11x11();
+			this->Visible = false;
+			abrir_11x11->ShowDialog();
+		}
+			  break;
+		case 7: {
+			dimension = 12;
+			computacional::Matriz12x12^ abrir_12x12 = gcnew computacional::Matriz12x12();
+			this->Visible = false;
+			abrir_12x12->ShowDialog();
+		}
+			  break;
+		case 8: {
+			dimension = 13;
+			computacional::Matriz13x13^ abrir_13x13 = gcnew computacional::Matriz13x13();
+			this->Visible = false;
+			abrir_13x13->ShowDialog();
+		}
+			  break;
+		case 9: {
+			dimension = 14;
+			computacional::Matriz14x14^ abrir_14x14 = gcnew computacional::Matriz14x14();
+			this->Visible = false;
+			abrir_14x14->ShowDialog();
+		}
+			  break;
+		case 10: {
+			dimension = 15;
+			computacional::Matriz15x15^ abrir_15x15 = gcnew computacional::Matriz15x15();
+			this->Visible = false;
+			abrir_15x15->ShowDialog();
+		}
+			   break;
+		default: MessageBox::Show("Elija una opcion");
+		}
 	}
 };
 }

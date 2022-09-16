@@ -110,6 +110,7 @@ namespace computacional {
 		computacional::Matriz^ abrir_menu = gcnew computacional::Matriz();
 		this->Visible = false;
 		abrir_menu->ShowDialog();
+		this->Visible = true;
 	}
 	private: System::Void Inicio_Load(System::Object^ sender, System::EventArgs^ e) {
 	}

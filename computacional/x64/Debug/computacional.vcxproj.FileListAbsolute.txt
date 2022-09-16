@@ -6,3 +6,21 @@ C:\Users\alfar\source\repos\computacional\computacional\x64\Debug\computacional.
 C:\Users\alfar\source\repos\computacional\computacional\x64\Debug\computacional.Matriz.resources
 C:\Users\alfar\source\repos\computacional\computacional\x64\Debug\computacional.IngresoDatos.resources
 C:\Users\alfar\source\repos\computacional\computacional\x64\Debug\computacional.MatrizAleatoria.resources
+C:\Users\alfar\CÓDIGOS GRUPALES\computacional\computacional\x64\Debug\computacional.vcxproj.AssemblyReference.cache
+C:\Users\alfar\CÓDIGOS GRUPALES\computacional\computacional\x64\Debug\computacional.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\alfar\CÓDIGOS GRUPALES\computacional\computacional\x64\Debug\computacional.Creditos.resources
+C:\Users\alfar\CÓDIGOS GRUPALES\computacional\computacional\x64\Debug\computacional.IngresoDatos.resources
+C:\Users\alfar\CÓDIGOS GRUPALES\computacional\computacional\x64\Debug\computacional.Inicio.resources
+C:\Users\alfar\CÓDIGOS GRUPALES\computacional\computacional\x64\Debug\computacional.Matriz.resources
+C:\Users\alfar\CÓDIGOS GRUPALES\computacional\computacional\x64\Debug\computacional.vcxproj.GenerateResource.cache
+C:\Users\alfar\CÓDIGOS GRUPALES\computacional\computacional\x64\Debug\computacional.Matriz5x5.resources
+C:\Users\alfar\CÓDIGOS GRUPALES\computacional\computacional\x64\Debug\computacional.Matriz10x10.resources
+C:\Users\alfar\CÓDIGOS GRUPALES\computacional\computacional\x64\Debug\computacional.Matriz11x11.resources
+C:\Users\alfar\CÓDIGOS GRUPALES\computacional\computacional\x64\Debug\computacional.Matriz12x12.resources
+C:\Users\alfar\CÓDIGOS GRUPALES\computacional\computacional\x64\Debug\computacional.Matriz13x13.resources
+C:\Users\alfar\CÓDIGOS GRUPALES\computacional\computacional\x64\Debug\computacional.Matriz14x14.resources
+C:\Users\alfar\CÓDIGOS GRUPALES\computacional\computacional\x64\Debug\computacional.Matriz15x15.resources
+C:\Users\alfar\CÓDIGOS GRUPALES\computacional\computacional\x64\Debug\computacional.Matriz6x6.resources
+C:\Users\alfar\CÓDIGOS GRUPALES\computacional\computacional\x64\Debug\computacional.Matriz7x7.resources
+C:\Users\alfar\CÓDIGOS GRUPALES\computacional\computacional\x64\Debug\computacional.Matriz8x8.resources
+C:\Users\alfar\CÓDIGOS GRUPALES\computacional\computacional\x64\Debug\computacional.Matriz9x9.resources

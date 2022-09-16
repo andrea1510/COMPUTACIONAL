@@ -126,22 +126,64 @@
     <ClCompile Include="IngresoDatos.cpp" />
     <ClCompile Include="Inicio.cpp" />
     <ClCompile Include="Matriz.cpp" />
-    <ClCompile Include="MatrizAleatoria.cpp" />
+    <ClCompile Include="Matriz10x10.cpp" />
+    <ClCompile Include="Matriz11x11.cpp" />
+    <ClCompile Include="Matriz12x12.cpp" />
+    <ClCompile Include="Matriz13x13.cpp" />
+    <ClCompile Include="Matriz14x14.cpp" />
+    <ClCompile Include="Matriz15x15.cpp" />
+    <ClCompile Include="Matriz5x5.cpp" />
+    <ClCompile Include="Matriz6x6.cpp" />
+    <ClCompile Include="Matriz7x7.cpp" />
+    <ClCompile Include="Matriz8x8.cpp" />
+    <ClCompile Include="Matriz9x9.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Creditos.h">
       <FileType>CppForm</FileType>
     </ClInclude>
+    <ClInclude Include="Dijkstra.h" />
     <ClInclude Include="IngresoDatos.h">
       <FileType>CppForm</FileType>
     </ClInclude>
     <ClInclude Include="Inicio.h">
       <FileType>CppForm</FileType>
     </ClInclude>
+    <ClInclude Include="MatricesAdyacencia.h" />
     <ClInclude Include="Matriz.h">
       <FileType>CppForm</FileType>
     </ClInclude>
-    <ClInclude Include="MatrizAleatoria.h">
+    <ClInclude Include="Matriz10x10.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Matriz11x11.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Matriz12x12.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Matriz13x13.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Matriz14x14.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Matriz15x15.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Matriz5x5.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Matriz6x6.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Matriz7x7.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Matriz8x8.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Matriz9x9.h">
       <FileType>CppForm</FileType>
     </ClInclude>
   </ItemGroup>
@@ -158,8 +200,38 @@
     <EmbeddedResource Include="Matriz.resx">
       <DependentUpon>Matriz.h</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="MatrizAleatoria.resx">
-      <DependentUpon>MatrizAleatoria.h</DependentUpon>
+    <EmbeddedResource Include="Matriz10x10.resx">
+      <DependentUpon>Matriz10x10.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matriz11x11.resx">
+      <DependentUpon>Matriz11x11.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matriz12x12.resx">
+      <DependentUpon>Matriz12x12.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matriz13x13.resx">
+      <DependentUpon>Matriz13x13.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matriz14x14.resx">
+      <DependentUpon>Matriz14x14.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matriz15x15.resx">
+      <DependentUpon>Matriz15x15.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matriz5x5.resx">
+      <DependentUpon>Matriz5x5.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matriz6x6.resx">
+      <DependentUpon>Matriz6x6.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matriz7x7.resx">
+      <DependentUpon>Matriz7x7.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matriz8x8.resx">
+      <DependentUpon>Matriz8x8.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matriz9x9.resx">
+      <DependentUpon>Matriz9x9.h</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

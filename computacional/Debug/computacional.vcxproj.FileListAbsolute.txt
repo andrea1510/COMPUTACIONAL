@@ -1,0 +1,8 @@
+C:\Users\alfar\CÓDIGOS GRUPALES\computacional\computacional\Debug\computacional.vcxproj.AssemblyReference.cache
+C:\Users\alfar\CÓDIGOS GRUPALES\computacional\computacional\Debug\computacional.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\alfar\CÓDIGOS GRUPALES\computacional\computacional\Debug\computacional.Creditos.resources
+C:\Users\alfar\CÓDIGOS GRUPALES\computacional\computacional\Debug\computacional.IngresoDatos.resources
+C:\Users\alfar\CÓDIGOS GRUPALES\computacional\computacional\Debug\computacional.Inicio.resources
+C:\Users\alfar\CÓDIGOS GRUPALES\computacional\computacional\Debug\computacional.Matriz.resources
+C:\Users\alfar\CÓDIGOS GRUPALES\computacional\computacional\Debug\computacional.MatrizAleatoria.resources
+C:\Users\alfar\CÓDIGOS GRUPALES\computacional\computacional\Debug\computacional.vcxproj.GenerateResource.cache

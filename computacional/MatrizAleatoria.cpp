@@ -1,2 +1,0 @@
-#include "MatrizAleatoria.h"
-

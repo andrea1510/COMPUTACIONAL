@@ -2,7 +2,17 @@
   computacional.IngresoDatos.resources - Embedded, ContainedInManifestFile, 
   computacional.Inicio.resources - Embedded, ContainedInManifestFile, 
   computacional.Matriz.resources - Embedded, ContainedInManifestFile, 
-  computacional.MatrizAleatoria.resources - Embedded, ContainedInManifestFile, 
+  computacional.Matriz10x10.resources - Embedded, ContainedInManifestFile, 
+  computacional.Matriz11x11.resources - Embedded, ContainedInManifestFile, 
+  computacional.Matriz12x12.resources - Embedded, ContainedInManifestFile, 
+  computacional.Matriz13x13.resources - Embedded, ContainedInManifestFile, 
+  computacional.Matriz14x14.resources - Embedded, ContainedInManifestFile, 
+  computacional.Matriz15x15.resources - Embedded, ContainedInManifestFile, 
+  computacional.Matriz5x5.resources - Embedded, ContainedInManifestFile, 
+  computacional.Matriz6x6.resources - Embedded, ContainedInManifestFile, 
+  computacional.Matriz7x7.resources - Embedded, ContainedInManifestFile, 
+  computacional.Matriz8x8.resources - Embedded, ContainedInManifestFile, 
+  computacional.Matriz9x9.resources - Embedded, ContainedInManifestFile, 
 ImageRuntimeVersion: v4.0.30319
 Assembly computacional, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
 	hash=SHA1, flags=PublicKey
@@ -24,7 +34,37 @@ Class computacional.Creditos: AutoLayout, AnsiClass, Class, Public, BeforeFieldI
 Class computacional.IngresoDatos: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
   :System.Windows.Forms.Form
     Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
-Class computacional.MatrizAleatoria: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+Class computacional.Matriz5x5: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class computacional.Matriz6x6: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class computacional.Matriz7x7: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class computacional.Matriz8x8: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class computacional.Matriz9x9: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class computacional.Matriz10x10: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class computacional.Matriz11x11: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class computacional.Matriz12x12: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class computacional.Matriz13x13: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class computacional.Matriz14x14: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class computacional.Matriz15x15: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
   :System.Windows.Forms.Form
     Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
 Class computacional.Matriz: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit

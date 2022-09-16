@@ -1,1 +1,9 @@
-﻿  computacional.vcxproj -> C:\Users\alfar\source\repos\computacional\x64\Debug\computacional.exe
+﻿  Inicio.cpp
+  Matriz.cpp
+  Matriz6x6.cpp
+  Matriz7x7.cpp
+  Matriz8x8.cpp
+  Matriz9x9.cpp
+  Generating Code...
+  Creditos.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  computacional.vcxproj -> C:\Users\alfar\CÓDIGOS GRUPALES\computacional\x64\Debug\computacional.exe
